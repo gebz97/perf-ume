@@ -1,2 +1,7 @@
 [workspace]
-members = ["greedy","fire","limits"]
+resolver = "2"
+members = [
+    "avaritia",
+    "feu",
+    "plafond"
+]
